@@ -1,4 +1,4 @@
- <img src="./Linkedin cover - 3.png" width="100%" />
+ <img src="./LinkedIn cover - 3.png" width="100%" />
 
 # Aditya Anavekar
 
