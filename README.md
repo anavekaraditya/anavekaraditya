@@ -1,4 +1,4 @@
-<img src="./assets/github-banner.png" width="100%" />
+<img src="./linkedin-cover 3.png" width="100%" />
 
 # Aditya Anavekar
 
