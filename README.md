@@ -1,16 +1,52 @@
-## Hi there 👋
+<img src="./assets/github-banner.png" width="100%" />
 
-<!--
-**anavekaraditya/anavekaraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aditya Anavekar
 
-Here are some ideas to get you started:
+**Product Designer × Design Technologist**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design complex digital products and build enough of them to understand where design breaks in implementation.
+
+**Product Design · AI · Design Systems · Prototyping · Frontend**
+
+[Portfolio](https://adityaanavekar.design) ·
+[LinkedIn](https://linkedin.com/in/aditya-anavekar)
+
+---
+
+## Selected Work
+
+### JuriCloud
+AI-assisted workspace for structured legal workflows.
+
+`Product Design` `AI UX` `Design Systems`
+
+### OnCue
+Real-time AI orchestration layer for coordination-heavy environments.
+
+`Voice AI` `Realtime Systems` `LangGraph`
+
+### Supernetwork
+Relationship CRM designed to preserve useful context from real-world conversations.
+
+`0→1 Product` `React` `AI`
+
+### The Best Chemicals
+Production ecommerce platform designed and developed end-to-end.
+
+`Product Design` `Next.js` `Supabase` `Stripe`
+
+---
+
+## Toolkit
+
+**Design**  
+Figma · ProtoPie · Framer · Illustrator
+
+**Build**  
+React · Next.js · TypeScript · JavaScript · Python
+
+**Infrastructure**  
+Supabase · Stripe · Vercel · Cloudflare
+
+**AI**  
+LangGraph · LLM APIs · AI-assisted prototyping
